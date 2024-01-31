@@ -8,7 +8,6 @@
 [![GoDoc](https://godoc.org/github.com/go-mmap/mmap?status.svg)](https://godoc.org/github.com/go-mmap/mmap)
 [![License](https://img.shields.io/badge/License-BSD--3-blue.svg)](https://github.com/go-mmap/mmap/blob/master/LICENSE)
 
-Package `mmap` provides ways to mmap a file.
 
 This started as a fork of [golang.org/x/exp/mmap](https://golang.org/x/exp/mmap).
 
